@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Sou o Guilherme, desenvolvedor front-end, designer gráfico e ilustrador 3D. Atuo como Assistente de Marketing Sênior na Rede Farmácias Associadas e sou colaborador da Shutterstock. Tenho experiência em design, web design e comunicação visual. Estou concluindo Análise e Desenvolvimento de Sistemas, unindo criatividade visual e código para criar soluções simples e eficientes.
+Sou o Guilherme, desenvolvedor front-end, designer gráfico de profissão e ilustrador 3D por hobby. Atuo como Assistente de Marketing Sênior na Rede Farmácias Associadas e sou colaborador da Shutterstock. Tenho experiência com desenvolvimento de projetos em áreas como design, web design e tecnologia, passando desde a concepção criativa até a execução técnica. Estudante em fase de conclusão de Análise e Desenvolvimento de Sistemas, integro design e programação para criar soluções simples, eficientes e escaláveis.
 
 
 ### 🤖 Linguagens e tecnologias que já domino
@@ -14,7 +14,7 @@ Sou o Guilherme, desenvolvedor front-end, designer gráfico e ilustrador 3D. Atu
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gui-SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="30"/>
 
-  ### 🤖 Linguagens e tecnologias que estou aprendendo
+  ### 📚 Linguagens e tecnologias que estou aprendendo
 
   <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gui-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
