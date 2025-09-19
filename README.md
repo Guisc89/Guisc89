@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Sou o Guilherme, desenvolvedor front-end, designer gráfico de profissão e ilustrador 3D por hobby. Atuo como Assistente de Marketing Sênior na Rede Farmácias Associadas e sou colaborador da Shutterstock. Tenho experiência com desenvolvimento de projetos em áreas como design, web design e tecnologia, passando desde a concepção criativa até a execução técnica. Estudante em fase de conclusão de Análise e Desenvolvimento de Sistemas, integro design e programação para criar soluções simples, eficientes e escaláveis.
+Sou o Guilherme, desenvolvedor front-end, designer gráfico de profissão e ilustrador 3D por hobby. Atuo como Assistente de Marketing Sênior na Rede Farmácias Associadas. Tenho experiência com desenvolvimento de projetos em áreas como design, web design e tecnologia, passando desde a concepção criativa até a execução técnica.
 
 <br>
 
