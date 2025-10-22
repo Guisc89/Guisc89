@@ -45,7 +45,7 @@ Sou o Guilherme, desenvolvedor front-end, designer gráfico de profissão e ilus
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Guisc89&theme=algolia&show_icons=true&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Guisc89&theme=dark&show_icons=true&hide_border=true&count_private=true"
   />
 
 <img 
