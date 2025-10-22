@@ -49,7 +49,7 @@ Sou o Guilherme, desenvolvedor front-end, designer gráfico de profissão e ilus
   />
   
   
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guisc89theme=dark&layout=compact)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guisc89&theme=dark&show_icons=true&hide_border=true&count_private=true&layout=compact)
   
 </div>
 
