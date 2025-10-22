@@ -48,13 +48,12 @@ Sou o Guilherme, desenvolvedor front-end, designer gráfico de profissão e ilus
     src="https://github-readme-stats.vercel.app/api?username=Guisc89&theme=dark&show_icons=true&hide_border=true&count_private=true"
   />
 
-<img 
+  <img 
       alt="GitHub Stats" 
       height="200"
       style="zoom 1.5;"
-      src=![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guisc89&layout=compact)
-      <!--https://github-readme-stats.vercel.app/api/top-langs/?username=Guisc89&theme=algolia&show_icons=true&hide_border=true&layout=compact" !-->
-/>
+      src=![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guisc89&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+   />
   
 </div>
 
