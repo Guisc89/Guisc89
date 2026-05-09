@@ -1,8 +1,8 @@
 # Guilherme Cardoso
 
-**Desenvolvedor Front-End**
+**Formado em Análise e Desenvolvimento de Sistemas**
 
-Sou o Guilherme, desenvolvedor front-end e designer gráfico de profissão. Atuo como Assistente de Marketing Sênior na Rede Farmácias Associadas. Tenho experiência com desenvolvimento de projetos em áreas como design, web design e tecnologia, passando desde a concepção criativa até a execução técnica.
+Sou o Guilherme, profissional de marketing formado em Análise e Desenvolvimento de sistemas. Atuo como Assistente de Marketing Sênior na Rede Farmácias Associadas. Tenho experiência com desenvolvimento de projetos em áreas como design, web design e tecnologia, passando desde a concepção criativa até a execução técnica.
 
 <br>
 
