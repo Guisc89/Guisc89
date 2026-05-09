@@ -18,45 +18,9 @@ Sou o Guilherme, desenvolvedor front-end e designer gráfico de profissão. Atuo
 
 ## 🚀 Tecnologias
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gui-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
-</div>
-
-<br>
-
-## 📚 Estudando
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gui-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-</div>
-
-<br>
-
-## 📊 Estatísticas
-
-<div>
-  <img 
-    align="left"
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=Guisc89&theme=dark&show_icons=true&hide_border=true&count_private=true"
-  />
-
-  <img 
-    align="left"
-    alt="Top Languages" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guisc89&theme=dark&show_icons=true&hide_border=true&count_private=true&layout=compact"
-  />
-</div>
-
-<br clear="both">
+<p align="left">
+  <img alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img alt="Gui-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"><img alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img alt="Gui-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
+</p>
 
 <!--
 **Guisc89/Guisc89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
