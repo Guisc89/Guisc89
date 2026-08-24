@@ -2,7 +2,7 @@
 
 **Formado em Análise e Desenvolvimento de Sistemas**
 
-Sou o Guilherme, profissional de marketing formado em Análise e Desenvolvimento de sistemas. Atuo como Assistente de Marketing Sênior na Rede Farmácias Associadas. Tenho experiência com desenvolvimento de projetos em áreas como design, web design e tecnologia, passando desde a concepção criativa até a execução técnica.
+Sou o Guilherme, Formado em Análise e Desenvolvimento de Sistemas, com foco em análise de sistemas, requisitos, processos e desenvolvimento de soluções digitais. Profissional de marketing há 8 anos. Atuo como Assistente de Marketing Sênior na Rede Farmácias Associadas.
 
 <br>
 
